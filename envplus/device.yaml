@@ -1,0 +1,6 @@
+identity:
+        orgId: ylvd3s
+        typeId: PiZero_type
+        deviceId: PiZero
+auth:
+        token: ABCD8000
